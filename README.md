@@ -1,0 +1,1 @@
+# salad242 Games [![Website Status](https://img.shields.io/website/https/games.salad242.gq.svg)](https://games.salad242.gq) [![Build Status](https://travis-ci.org/Kore-Development/salad242-web-games.svg?branch=master)](https://travis-ci.org/Kore-Development/salad242-web-games)
