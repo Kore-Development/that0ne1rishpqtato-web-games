@@ -2,7 +2,7 @@
   <div class="minecraft">
     <iframe
       style="position:absolute;top:0px;left:0px;width:100vw;height:100vh;margin:0;padding:0;"
-      src="https://minecraft.games.pqtato.pw"
+      src="https://minecraft1.glitch.me"
     ></iframe>
   </div>
 </template>
