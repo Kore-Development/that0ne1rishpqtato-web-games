@@ -3,7 +3,7 @@
       <div>
         <span class="title"><img src="../../public/logo.png" class="shadow"></span>
         <h3>Please select a game above.</h3>
-        <br/><a href="https://www.salad242.gq"><img class="shadow" src="https://img.shields.io/badge/-Back-red.svg" style="height:25px;"></a>
+        <br/><a href="//www.that0ne1rishpqtato.gq"><img class="shadow" src="https://img.shields.io/badge/-Back-red.svg" style="height:25px;"></a>
       </div>
     </div>
 </template>
