@@ -65,7 +65,7 @@ nav {
 }
 nav img {
   height: 50px;
-  width: 159px;
+  width: 370px;
   z-index: 50;
   position: absolute;
   top: 0;
@@ -81,7 +81,7 @@ nav ul {
   background-color: #333;
 }
 nav li:first-child {
-  padding-left: 160px;
+  padding-left: 371px;
 }
 nav li {
   float: left;
